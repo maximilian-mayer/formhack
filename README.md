@@ -17,6 +17,13 @@ Install with [Bower](http://bower.io/)
 bower install formhack
 ```
 
+Install with [NPM](https://npmjs.com/)
+
+```
+npm install maximilian-mayer/formhack
+```
+
+
 Clone this repository
 
 ```
